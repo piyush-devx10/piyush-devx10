@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm YOUR NAME
+# Hi there! 👋 I'm Piyush Mandhare
 
 ### 🎓 Engineering Student | Aspiring Developer
 
@@ -6,15 +6,14 @@ Welcome to my GitHub profile! I'm learning to code, exploring new technologies, 
 
 ## 👨‍💻 About Me
 
-- 🏫 Studying at **YOUR COLLEGE NAME**
+- 🏫 Studying at **Sinhgad Institute of Technology**
 - 🌱 Currently learning **Python, Git & GitHub**
-- 💻 Interested in **Software Development**
+- 💻 Interested in **Software Development + AI Integration**
 - 🎯 Goal: **Build useful projects and improve my coding skills**
 - 🤝 Open to learning and collaborating with other developers
 
 ## 🛠️ Skills & Tools
 
-<!-- Keep only the tools you know or are learning. Add more as you learn! -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -22,26 +21,13 @@ Welcome to my GitHub profile! I'm learning to code, exploring new technologies, 
 
 ## 🚀 My Projects
 
-<!-- Replace these examples with your actual projects, or delete this section for now. -->
-- **My First Project** — Write one sentence about what you made. [View project](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY)
-
-## 📊 GitHub Stats
-
-<!-- Replace YOUR_USERNAME below with your exact GitHub username. This third-party card may occasionally be unavailable. -->
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+- **My First Project** — JanSetu AI  [View project](https://github.com/piyush-devx10/HackersX-JanSetu-AI)
 
 ## 📫 Connect With Me
 
-- 💻 GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- 🔗 LinkedIn: [Your Name](https://www.linkedin.com/in/YOUR_LINKEDIN_ID/)
+- 💻 GitHub: [@piyush-devx](https://github.com/piyush-devx10)
+- 🔗 LinkedIn: [Piyush Mandhare](https://www.linkedin.com/in/piyush-mandhare-8192b234a/)
 
 ---
 ⭐ Thanks for visiting my profile! Keep learning and keep building. 🚀
 
-<!-- QUICK SETUP:
-1. Replace YOUR NAME, YOUR COLLEGE NAME and YOUR_USERNAME (everywhere).
-2. Edit your interests, skills, projects and LinkedIn link. Remove any section you don't need.
-3. Create a PUBLIC GitHub repository with EXACTLY the same name as your GitHub username.
-4. Add a README.md file, paste this content, and commit your changes.
-5. Visit github.com/YOUR_USERNAME to see your profile.
--->
